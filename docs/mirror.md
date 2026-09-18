@@ -1,4 +1,4 @@
-# Mirror / 镜中试炼 · 技术策划工具链
+# 类银项目 · 技术策划工具链
 
 [返回作品集](../README.md) · [源码仓库](https://github.com/SherlockZhang093/mirror_test)
 

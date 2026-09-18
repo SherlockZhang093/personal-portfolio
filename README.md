@@ -4,17 +4,17 @@
 
 ## 项目导航
 
-| 方向 | 重点内容 | 详情 |
+| 项目 | 重点内容 | 详情 |
 | --- | --- | --- |
-| Mirror 技术策划 | 技能帧、连招分支、剧情校验、运行时监控 | [阅读源码核实后的案例](docs/mirror.md) |
-| Harvest AI NPC | 自然语言任务、规则执行与异常处理设计 | [阅读案例与实现边界](docs/ai-npc.md) |
-| History（history2） | 接入 AI 的游戏项目 | [项目说明](docs/history.md) |
+| 类银项目 | 技能帧、连招分支、剧情校验、运行时监控 | [阅读源码核实后的案例](docs/mirror.md) |
+| 模拟经营 AI NPC | 自然语言任务、规则执行与异常处理设计 | [阅读案例与实现边界](docs/ai-npc.md) |
+| 历史科普类游戏 | 接入 AI 的游戏项目 | [项目说明](docs/history.md) |
 | 心动制作坊 | 恋爱综艺模拟器，合作游戏项目 | [项目介绍](docs/director-game.md) |
-| CardPlaceGame | 模拟经营游戏 | [游戏录像](模拟经营/Recording%202026-09-17%20135614.mp4) |
+| 上帝模拟器 | 模拟经营游戏 | [游戏录像](模拟经营/Recording%202026-09-17%20135614.mp4) |
 
 ## 1. 技术策划经验
 
-### [Mirror 工具链](https://github.com/SherlockZhang093/mirror_test)
+### [类银项目](https://github.com/SherlockZhang093/mirror_test)
 
 围绕游戏内容生产与运行调试搭建的技术策划工具，包括：
 
@@ -46,7 +46,7 @@
 
 ## 2. AI 相关游戏
 
-### [Harvest](https://github.com/SherlockZhang093/harvest2)
+### [模拟经营 AI NPC](https://github.com/SherlockZhang093/harvest2)
 
 包含 AI NPC 相关设计与实现，探索 AI 驱动角色在游戏世界中的互动与行为。
 
@@ -67,7 +67,7 @@
 
 现有流程图标注了本地指令模拟器与预留 API 接口，实际模型接入状态需按演示版本核实。
 
-### History｜AI 游戏
+### 历史科普类游戏
 
 接入 AI 能力的游戏实践，使用 `history2` 作为作品入口。相关仓库为私有，访问需要相应权限。
 
@@ -91,11 +91,11 @@
 
 [详细项目介绍](docs/director-game.md)
 
-### CardPlaceGame｜模拟经营
+### 上帝模拟器｜模拟经营
 
-模拟经营游戏项目，与 Harvest 的 AI NPC 项目分别展示。以下录屏展示现有游戏版本。
+模拟经营游戏项目（CardPlaceGame），与“模拟经营 AI NPC”分别展示。以下录屏展示现有游戏版本。
 
-**[观看或下载 CardPlaceGame 游戏录屏](模拟经营/Recording%202026-09-17%20135614.mp4)**
+**[观看或下载上帝模拟器游戏录屏](模拟经营/Recording%202026-09-17%20135614.mp4)**
 
 当前先收录已提供的完整演示，具体玩法规则、项目仓库与个人分工后续补充。
 
