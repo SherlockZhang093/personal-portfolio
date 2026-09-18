@@ -8,7 +8,8 @@
 | --- | --- | --- |
 | Mirror 技术策划 | 技能帧、连招分支、剧情校验、运行时监控 | [阅读源码核实后的案例](docs/mirror.md) |
 | Harvest AI NPC | 自然语言任务、规则执行与异常处理设计 | [阅读案例与实现边界](docs/ai-npc.md) |
-| History | AI 游戏项目，展示版本待补齐 | [项目说明](docs/history.md) |
+| History（history2） | 接入 AI 的游戏项目 | [项目说明](docs/history.md) |
+| 心动制作坊 | 恋爱综艺模拟器，合作游戏项目 | [项目介绍](docs/director-game.md) |
 | 合作游戏设计 | 个人职责与迭代案例整理中 | [项目资料入口](docs/game-design.md) |
 
 ![Mirror 连招编辑器](类银/连招编辑器.png)
@@ -42,6 +43,12 @@
 ## 3. 纯游戏设计
 
 ### 过往合作项目
+
+#### [心动制作坊｜恋爱综艺模拟器](docs/director-game.md)
+
+[项目仓库（Ljy-0827/DirectorGame）](https://github.com/Ljy-0827/DirectorGame) · [公众号资料](https://mp.weixin.qq.com/s/wizUn28voOsWsnhPm6gw4Q)
+
+合作游戏项目，个人负责内容与设计迭代案例后续补充。
 
 此前参与的合作项目主要归入纯游戏设计方向。具体项目名称、个人职责与迭代成果后续补充。
 
