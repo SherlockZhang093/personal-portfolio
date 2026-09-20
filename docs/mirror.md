@@ -27,7 +27,15 @@
 
 当前数据包含 chargeHoldFrame，并保留隐藏的旧归一化时间字段。源码与交接文档存在版本差异，具体参数应以当前运行版本为准。
 
-[连招录像](../类银/连招.mp4) · [蓄力录像](../类银/蓄力.mp4)
+**连招演示**
+
+https://github.com/user-attachments/assets/da3c7f2d-734f-46a3-a2cc-a0d9e541e4be
+
+**蓄力演示**
+
+https://github.com/user-attachments/assets/967ebe28-f708-46f8-8696-65d78ccb1019
+
+[下载连招原文件](../类银/连招.mp4) · [下载蓄力原文件](../类银/蓄力.mp4)
 
 建议补录：修改招式配置、调整分支、进入测试场景验证，并展示一次边界情况。
 
