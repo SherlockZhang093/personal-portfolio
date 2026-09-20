@@ -72,6 +72,7 @@ https://github.com/user-attachments/assets/967ebe28-f708-46f8-8696-65d78ccb1019
 </details>
 
 [观看 AI NPC 录屏](AI%20npc/简单录屏.mp4) · [详细案例](docs/ai-npc.md)
+
 【模拟经营 AI NPC｜游戏项目演示】 https://www.bilibili.com/video/BV1S3ei6gEt1/?share_source=copy_web&vd_source=927dbe0f9ab4255be98817882bfdf8b9
 
 现有流程图标注了本地指令模拟器与预留 API 接口，实际模型接入状态需按演示版本核实。
@@ -105,6 +106,7 @@ https://github.com/user-attachments/assets/967ebe28-f708-46f8-8696-65d78ccb1019
 模拟经营游戏项目（CardPlaceGame），与“模拟经营 AI NPC”分别展示。以下录屏展示现有游戏版本。
 
 **[观看或下载上帝模拟器游戏录屏](模拟经营/Recording%202026-09-17%20135614.mp4)**
+
 bilibili录屏：https://www.bilibili.com/video/BV1Quei6rELq/?share_source=copy_web&vd_source=927dbe0f9ab4255be98817882bfdf8b9
 
 当前先收录已提供的完整演示，具体玩法规则、项目仓库与个人分工后续补充。
